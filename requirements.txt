@@ -1,0 +1,4 @@
+crewai
+ollama
+jupyter
+ipykernel
